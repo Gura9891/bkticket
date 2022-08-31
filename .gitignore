@@ -1,0 +1,2 @@
+#loại bỏ folder node_modules không add vào git 
+/node_modules
